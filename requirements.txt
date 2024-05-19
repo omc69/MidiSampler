@@ -1,0 +1,7 @@
+numpy==1.23.5
+pydub==0.25.1
+rtmidi==2.5.0
+scipy==1.13.0
+sounddevice==0.4.6
+soundfile==0.12.1
+wavio==0.0.8
